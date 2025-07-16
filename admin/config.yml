@@ -2,7 +2,7 @@
 backend:
   name: git-gateway
   repo: kadauber/kadauber.github.io
-  branch: main
+  branch: master
   identity_url: https://auth.decapbridge.com/sites/f7611540-7629-4e60-b210-599c1548e656
   gateway_url: https://gateway.decapbridge.com
 
