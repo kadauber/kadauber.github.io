@@ -1,3 +1,18 @@
+:root {
+  /* Rem responsive sizes */
+  --14px-rems: 0.875rem; /* 14px */
+  --15px-rems: 0.9375rem; /* 15px */
+  --16px-rems: 1rem; /* 16px */
+  --18px-rems: 1.125rem; /* 18px */
+  --20px-rems: 1.25rem; /* 20px */
+  --22px-rems: 1.375rem; /* 22px */
+  --26px-rems: 1.625rem; /* 26px */
+  --28px-rems: 1.75rem; /* 28px */
+  --32px-rems: 2rem; /* 32px */
+  --36px-rems: 2.25rem; /* 36px */
+  --42px-rems: 2.625rem; /* 42px */
+}
+
 /**
  * Reset some basic elements
  */
@@ -33,7 +48,7 @@ h1, h2, h3, h4, h5, h6,
 p, blockquote, pre,
 ul, ol, dl, figure,
 .highlight {
-  margin-bottom: 15px;
+  margin-bottom: var(--15px-rems);
 }
 
 /**
@@ -59,14 +74,14 @@ figure > img {
 }
 
 figcaption {
-  font-size: 14px;
+  font-size: var(--14px-rems);
 }
 
 /**
  * Lists
  */
 ul, ol {
-  margin-left: 30px;
+  margin-left: var(--32px-rems);
 }
 
 li > ul,
@@ -109,7 +124,7 @@ blockquote {
   color: #828282;
   border-left: 4px solid #e8e8e8;
   padding-left: 15px;
-  font-size: 18px;
+  font-size: var(--18px-rems);
   letter-spacing: -1px;
   font-style: italic;
 }
@@ -122,7 +137,7 @@ blockquote > :last-child {
  */
 pre,
 code {
-  font-size: 15px;
+  font-size: var(--15px-rems);
   border: 1px solid #e8e8e8;
   border-radius: 3px;
   background-color: #eef;
@@ -175,8 +190,8 @@ pre > code {
  * Icons
  */
 .svg-icon {
-  width: 16px;
-  height: 16px;
+  width: var(--16px-rems);
+  height: var(--16px-rems);
   display: inline-block;
   fill: #828282;
   padding-right: 5px;
@@ -191,7 +206,7 @@ pre > code {
  * Tables
  */
 table {
-  margin-bottom: 30px;
+  margin-bottom: var(--32px-rems);
   width: 100%;
   text-align: left;
   color: rgb(62.9, 62.9, 62.9);
@@ -324,7 +339,7 @@ table td {
 }
 
 .footer-heading {
-  font-size: 18px;
+  font-size: var(--18px-rems);
   margin-bottom: 15px;
 }
 
@@ -335,7 +350,7 @@ table td {
 }
 
 .footer-col-wrapper {
-  font-size: 15px;
+  font-size: var(--15px-rems);
   color: #828282;
   margin-left: -15px;
 }
@@ -388,11 +403,11 @@ table td {
 }
 
 .page-heading {
-  font-size: 32px;
+  font-size: var(--32px-rems);
 }
 
 .post-list-heading {
-  font-size: 28px;
+  font-size: var(--28px-rems);
 }
 
 .post-list {
@@ -404,58 +419,58 @@ table td {
 }
 
 .post-meta {
-  font-size: 14px;
+  font-size: var(--14px-rems);
   color: #828282;
 }
 
 .post-link {
   display: block;
-  font-size: 24px;
+  font-size: var(--26px-rems);
 }
 
 /**
  * Posts
  */
 .post-header {
-  margin-bottom: 30px;
+  margin-bottom: var(--32px-rems);
 }
 
 .post-title {
-  font-size: 42px;
+  font-size: var(--42px-rems);
   letter-spacing: -1px;
-  line-height: 1;
+  line-height: 1.5;
 }
 @media screen and (max-width: 800px) {
   .post-title {
-    font-size: 36px;
+    font-size: var(--36px-rems);
   }
 }
 
 .post-content {
-  margin-bottom: 30px;
+  margin-bottom: var(--32px-rems);
 }
 .post-content h2 {
-  font-size: 32px;
+  font-size: var(--32px-rems);
 }
 @media screen and (max-width: 800px) {
   .post-content h2 {
-    font-size: 28px;
+    font-size: var(--28px-rems);
   }
 }
 .post-content h3 {
-  font-size: 26px;
+  font-size: var(--26px-rems);
 }
 @media screen and (max-width: 800px) {
   .post-content h3 {
-    font-size: 22px;
+    font-size: var(--22px-rems);
   }
 }
 .post-content h4 {
-  font-size: 20px;
+  font-size: var(--20px-rems);
 }
 @media screen and (max-width: 800px) {
   .post-content h4 {
-    font-size: 18px;
+    font-size: var(--18px-rems);
   }
 }
 
