@@ -42,13 +42,20 @@ This show is 90 minutes with a 10 minute intermission.
 **Cabaret** from <cite>Cabaret</cite> by John Kander and Fred Ebb
 
 ## Featured Performers
-- Joshua Dixon Belt
-- Kelvyn Koning
-- Adam Sell
-- Angelica Ocegueda
+- Joshua Dixon Belt (Vocalist)
+- Kelvyn Koning (Piano)
+- Nigel Telman (Combo)
+- Artis Street (Combo)
+- Adam Sell (Vocalist)
+- Angelica Ocegueda (Vocalist)
 
 ## Content Advisories
 - **All Grown Up**: Teen pregnancy
 - **Don't Do Sadness/Blue Wind**: Suicidal ideation
 - **Just One Step**: Threatening to jump off a building
 - **Can't I Just Be**: References to homophobia
+
+## Special Thanks
+Poster design by Shai Nir Hana
+Facts provided by Kristen Hale, Émile Lewis, Dencil Wilmot, PJ Hernandez, Victoria Longe, Tori Queeno, Jonathan Mendoza, Caitlyn Hoeflin Hana, Shai Nir Hana.
+Extra special thanks to my wonderful partner Sam Sexton for assembling my friends and their facts about me. I love you, my love.
