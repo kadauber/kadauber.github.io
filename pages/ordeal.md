@@ -57,5 +57,7 @@ This show is 90 minutes with a 10 minute intermission.
 
 ## Special Thanks
 Poster design by Shai Nir Hana
+
 Facts provided by Kristen Hale, Émile Lewis, Dencil Wilmot, PJ Hernandez, Victoria Longe, Tori Queeno, Jonathan Mendoza, Caitlyn Hoeflin Hana, Shai Nir Hana.
+
 Extra special thanks to my wonderful partner Sam Sexton for assembling my friends and their facts about me. I love you, my love.
