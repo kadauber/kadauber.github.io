@@ -42,12 +42,12 @@ This show is 90 minutes with a 10 minute intermission.
 **Cabaret** from <cite>Cabaret</cite> by John Kander and Fred Ebb
 
 ## Featured Performers
-- Joshua Dixon Belt (Vocalist)
+- Joshua Dixon Belt (Vocals)
 - Kelvyn Koning (Piano)
-- Nigel Telman (Combo)
-- Artis Street (Combo)
-- Adam Sell (Vocalist)
-- Angelica Ocegueda (Vocalist)
+- Nigel Telman (Bass)
+- Artis Street (Drums)
+- Adam Sell (Vocals)
+- Angelica Ocegueda (Vocals)
 
 ## Content Advisories
 - **All Grown Up**: Teen pregnancy
