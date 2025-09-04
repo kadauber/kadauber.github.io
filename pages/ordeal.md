@@ -93,6 +93,12 @@ Kelvyn Koning (he/they) specializes in composing for choir and theatre and in pe
 
 *Vocalist*
 
+{% include bio_block.html
+  alt=""
+  src="/assets/img/2025_Sell_Headshot.jpg"
+  content="Adam Sell has been doing theater and theater-adjacent things for more than 30 years, if you count Christmas pageants at church back in grade school. If you don't, it's closer to 25 years, which is still a quarter century of being on stages and wow that number is kind of wild to type out loud. Most recently, he appeared as Bruce Bechdel in the Burlington Players' production of <cite>Fun Home</cite>, and he'll appear as Miss Trunchbull in the Footlight Club's upcoming production of <cite>Matilda</cite>. Perhaps the wildest shift in role imaginable, but we're just going to call it range."
+%}
+
 ### Angelica Ocegueda
 
 *Vocalist*
