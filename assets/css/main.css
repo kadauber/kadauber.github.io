@@ -675,3 +675,38 @@ table td {
 .highlight .il {
   color: #099;
 }
+
+/* Bio Block */
+
+.bio-block .image-container {
+  max-width: 150px;
+  display: flex;
+}
+
+.bio-block.wide-image .image-container {
+  max-width: 250px;
+}
+
+.bio-block:nth-of-type(odd) .image-container {
+  float: left;
+  margin-inline-end: 1rem;
+}
+
+.bio-block:nth-of-type(even) .image-container {
+  float: right;
+  margin-inline-start: 1rem;
+}
+
+@media screen and (max-width: 400px) {
+  .bio-block {
+    display: flex;
+    flex-direction: column-reverse;
+  }
+
+  .bio-block .image-container.image-container {
+    max-width: 100%;
+    margin-inline: 0;
+    margin-block-end: 1rem;
+    float: initial;
+  }
+}

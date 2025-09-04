@@ -42,12 +42,60 @@ This show is 90 minutes with a 10 minute intermission.
 **Cabaret** from <cite>Cabaret</cite> by John Kander and Fred Ebb
 
 ## Featured Performers
-- Joshua Dixon Belt (Vocals)
-- Kelvyn Koning (Piano)
-- Nigel Telman (Bass)
-- Artis Street (Drums)
-- Adam Sell (Vocals)
-- Angelica Ocegueda (Vocals)
+
+### Kimberly Dauber
+
+*Vocalist, Producer*
+
+{% include bio_block.html 
+  alt=""
+  src="/assets/img/KD-02_LR_vert.png"
+  content="
+Kimberly Dauber (she/her) is a Boston-based singer, actor, voiceover artist, audiobook narrator, director, producer, and cat parent. She can frequently be seen performing with [**The Post Meridian Radio Players**](https://www.pmrp.org) and soon in the upcoming [<cite>Mrs. Hawking</cite>](http://www.mrshawking.com) play by **Breaking Light Productions**. Check out the [<cite>Not Even Comedy Podcast</cite>](https://www.youtube.com/playlist?list=PL_ZvJ3P0Xbf3eGFtGSrY0W0X6EgJ3mwKx) she produces, as well as her past podcast projects as [**Hear Me Out Productions**](https://www.hearmeoutproductions.com). A new audio drama, <cite>Malaika</cite>, is coming soon! Kim loves performing in original musicals, narrating audiobooks, building accessible websites, crocheting, reading WebToons. [dauber.kim](https://dauber.kim)"%}
+
+### Joshua Dixon Belt
+
+*Vocalist, Producer*
+
+{% include bio_block.html
+  alt=""
+  src="/assets/img/2025_Belt_Headshot.jpg"
+  content="
+Joshua Dixon Belt, baritone, is a Boston-based singer and voice teacher. He has performed with his ensemble **Atelier Belt**, as well as **Odyssey Opera, Boston Youth Symphony Orchestra, MassOpera, Opera on Tap-Boston, NEMPAC Opera Project, Greater Worcester Opera, VOX New England, Opera 51**, and **The Choral Art Society of the South Shore**. An in-demand teacher, with students accepted to Penn State Musical Theatre, NYU Tisch, and University of Michigan, and performing with Lyric Stage Company of Boston, Reagle Music Theatre, and Trinity Repertory Company. He is a graduate of **Otterbein** (BM) and **Boston Universities** (MM), **Longy School of Music** (GPD), and is on faculty at **Walnut Hill School for the Arts**. [joshuadixonbelt.com](http://joshuadixonbelt.com)
+"%}
+
+### Kelvyn Koning
+
+*Pianist*
+
+{% include bio_block.html 
+  alt=""
+  src="/assets/img/2025_Koning_Headshot.jpg"
+  content="
+Kelvyn Koning (he/they) specializes in composing for choir and theatre and in performing as a countertenor and pianist. He completed his Master of Music in Composition from the Boston Conservatory at Berklee and has been commissioned to write pieces for middle school, high school, college, church, and community choirs. In addition to writing several children’s musicals, he has written two award-winning full-length musicals, <cite>The Glassblower’s Daughter</cite> with Columbia Entertainment Co. and <cite>The Prince and the Painter</cite> with Moonbox Productions. He is currently the Minister of Music at St. Paul’s Natick and accompanies/music directs at the Boston Conservatory, Freelance Players, and Watertown Children’s Theatre. Kelvyn is a founding member of the Nightingale Vocal Ensemble, the West Michigan Choral Lab, and Lilith Vocal Ensemble. He recently released his first queer Christian album, <cite>The Veil is Torn</cite>."%}
+
+### Nigel Telman
+
+*Bassist*
+
+{% include bio_block.html
+  alt=""
+  src="/assets/img/2025_Telman_Headshot.jpg"
+  content="Nigel Telman is a bassist originally from Chicago and now based in Dorchester. A graduate of Columbia University (Class of 2021), he performs on both electric and upright bass across jazz, funk, rock, and musical theater. Nigel is a member of the Boston-based cover band Elephant in the Room and the funk band Further Notice. He has been an active theater pit musician, performing with the Watertown Children’s Theatre in <cite>Something Rotten</cite> (Fall ’22), <cite>Godspell</cite> (Spring ’23), <cite>Newsies</cite> (Fall ’23), and <cite>Big Fish</cite> (Fall ’24). Known for his versatility and collaborative spirit, he brings energy and adaptability to every ensemble. He is currently a resident of Dorchester."
+  wide_image="true"
+%}
+
+### Artis Street
+
+*Drummer*
+
+### Adam Sell
+
+*Vocalist*
+
+### Angelica Ocegueda
+
+*Vocalist*
 
 ## Content Advisories
 - **All Grown Up**: Teen pregnancy

@@ -1,0 +1,6 @@
+<div class="bio-block {% if include.wide_image == 'true' %}wide-image{% endif %}">
+    <div class="image-container">
+        <img alt="{{ include.alt }}" src="{{ include.src }}" />
+    </div>
+    {{ include.content | markdownify }}
+</div>
