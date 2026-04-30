@@ -4,7 +4,7 @@ title: "Make Discord Manageable"
 date: 2026-04-30T15:00:00.000-04:00
 ---
 
-A Discord server can have a LOT of channels and messages! These basic features will help you keep it manageable:
+A Discord server can have a LOT of channels and messages! These basic features will help you keep it manageable.
 
 ## Mute mute mute!
 You can mute servers, categories, and channels. Changing "mute" settings applies everywhere you access Discord (mobile, desktop app, or browser). **Do this aggressively, especially on noisy channels you don't care about!**
